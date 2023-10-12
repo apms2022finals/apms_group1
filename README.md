@@ -8,6 +8,8 @@ This repo contains the backend structure for the web app of the Automatic Power 
 
 `Repo Link (Full Project)` - https://github.com/apms2022finals/apms_group1
 
+`Google Drive Link (Full Project)` - https://drive.google.com/drive/folders/1w9hMIfAA4h7DIM7lE_jQCWNI5W4rKRvD?usp=sharing
+
 ### Features:
 
 - Users can signup and login; as far as they have a registered meter number (for now: `A100` and `A200`)
