@@ -1,0 +1,27 @@
+## Auto Power Management System
+
+This repo contains the backend structure for the web app of the Automatic Power Management System, with Multi-Grid Power Supply: a final year project for Group 1 of 2021/2022 set of Computer Engineering, University of Ilorin.
+
+`Live link (Frontend) - https://apms-project.vercel.app`
+`Live Link (Backend) - https://autopms.onrender.com/api/v1`
+
+### Features:
+
+- Users can signup and login; as far as they have a registered meter number (for now: `A100` and `A200`)
+- Admin can have access to all the information of data sent from a building
+- Users can view the information of the enery consumption of their own apartments
+
+### Project Participants:
+
+- Damilare Taofeek O. : 17/30GR023
+- Eniojukan Daniel O. : 17/30GR028
+- Johnson, Goodness O. : 17/30GR032
+- Owoleke Victor F. : 15/30GR069
+- Sodiq Farihan A. : 17/30GR058
+- Tella Goodness O. : 17/30GR060
+
+### Supervising Staffs:
+
+- Supervisor: Dr. Opadiji J.F.
+- Asst. Supervisor: Engr. Abdulrahman
+- Technologist: Engr. Mahmoud
