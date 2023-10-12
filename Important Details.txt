@@ -1,0 +1,16 @@
+## Firebase login details:
+Email: firebasepro0@gmail.com
+Password: Firebasepro1234
+
+## MongoDB login details:
+Email: apms21050@gmail.com
+Password: group1APMS
+
+## GitHub:
+Username: apms2022finals
+Email: apms21050@gmail.com
+Password: group1APMS
+
+## Gmail:
+Email: apms21050@gmail.com
+Password: group1APMS
