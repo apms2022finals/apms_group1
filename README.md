@@ -11,6 +11,19 @@ This repo contains the backend structure for the web app of the Automatic Power 
 - Admin can have access to all the information of data sent from a building
 - Users can view the information of the enery consumption of their own apartments
 
+### Technologies & Tools used:
+- ReactJS
+- NodeJS
+- Express
+- MongoDB
+- Mongoose
+- Firebase
+- Bcrypt
+- CORS
+- UUID
+- React Elements: Toastify, Swiper, Icons, Leaflets
+- Dotenv
+
 ### Project Participants:
 
 - Damilare Taofeek O. : 17/30GR023
@@ -25,3 +38,4 @@ This repo contains the backend structure for the web app of the Automatic Power 
 - Supervisor: Dr. Opadiji J.F.
 - Asst. Supervisor: Engr. Abdulrahman
 - Technologist: Engr. Mahmoud
+
