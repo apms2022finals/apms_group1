@@ -3,7 +3,10 @@
 This repo contains the backend structure for the web app of the Automatic Power Management System, with Multi-Grid Power Supply: a final year project for Group 1 of 2021/2022 set of Computer Engineering, University of Ilorin.
 
 `Live link (Frontend)` - https://apms-project.vercel.app
+
 `Live Link (Backend)` - https://autopms.onrender.com/api/v1
+
+`Repo Link (Full Project)` - https://github.com/apms2022finals/apms_group1
 
 ### Features:
 
